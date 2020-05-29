@@ -2,6 +2,10 @@
     Drag and Drop Js Vanilla 
 </h1>
 
+<h3 align="center">  
+    <img src="https://github.com/Walesson/drag-and-drop-js/blob/master/assets/img/banner.png" title="Imagem do Drag and Drop" />
+</h3>
+
 --
 
 ## :rocket: About the project
@@ -13,7 +17,7 @@ It's a simple page that aims to demonstrate the drag and drop capabilities
 ## :runner: Installation
 
 ```
-// 1 - Git Clone
+// 1 - $ git clone https://github.com/Walesson/drag-and-drop-js.git
 
 // 2 - Open in your Browser
 
